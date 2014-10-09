@@ -1,0 +1,28 @@
+# Plyr package
+
+`split_indices`
+-----------
+
+`indexed_df`
+-----------
+
+`is_quoted`
+-----------
+
+A utility function for checking whether arguments to the \*\*ply family
+have been wrapped with `.(...)`. 
+
+`quick_df`
+----------
+
+A quick and dirty way to turn a list, data.frame, or environment into
+a data.frame (with no row names).
+
+`summarize`
+-----------
+
+A function to be used in conjunction with the `.fun` argument in `ddply`
+calls that evaluates the given expressions within the passed data.frame
+by splits (with enclosing environment the parent calling environment).
+Useful for summarizing data sets with tapply-like aggregation.
+
