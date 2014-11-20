@@ -1,5 +1,6 @@
 Ideas
 =======
+
 * A real-time database refactoring tool based on cohomological complexes
  - A sequence of databases (each a collection of tables) with atomic and 
    "nice" operations on each database transforming the former into the latter
