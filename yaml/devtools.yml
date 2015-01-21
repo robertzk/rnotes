@@ -13,3 +13,7 @@
   - "%<-c%"
   - https://github.com/hadley/pryr/blob/master/R/assign-constant.r#L22
   - Creates a constant binding. Once a variable is set, it cannot be modified.
+-
+  - "%<-d%"
+  - https://github.com/hadley/pryr/blob/master/R/assign-delayed.r#L18
+  - Creates a delayed. binding. An expression won't be executed until it's needed (lazy eval).
