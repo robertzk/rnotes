@@ -16,3 +16,6 @@
 
 * `utils::formatOL` and `utils::formatUL` are helper functions for formatting
   ordered and unordered lists, respectively.
+
+* `grDevices::rgb` and `grDevices::col2rgb` is a thing, but I am not sure of what it does.
+
