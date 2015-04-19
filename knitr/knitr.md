@@ -8,5 +8,7 @@
 * The `codetools::findLocalsList` function exists and is useful, but I
   have no idea what it does.
 
+* `na.omit(x)` is an alternative to `Filter(Negate(is.na), x)`. However, it
+  will have extraneous attributes.
 
 
