@@ -11,4 +11,6 @@
 * `na.omit(x)` is an alternative to `Filter(Negate(is.na), x)`. However, it
   will have extraneous attributes.
 
+* Investigate `tools:::makeLazyLoadDB` as a solution around the corruption of
+  lazyload DB.
 
