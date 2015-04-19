@@ -3,8 +3,6 @@
 * The `utils::getFromNamespace` helper is a neat shortcut for
   `get('foo', envir = getNamespace('bar'))`.
 
-* Your code doesn't have to look nice to be popular.
-
 * The `codetools::findLocalsList` and `codetools::findGlobals` functions exists and
   are useful, but I have no idea what they do.
 
